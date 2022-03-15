@@ -67,9 +67,6 @@ void APlantPrototypeCharacter::Tick(float DeltaSeconds)
 		{
 			if (UWorld* World = GetWorld())
 			{
-
-				if(Camera == true)
-				{
 					FHitResult HitResult;
 					FCollisionQueryParams Params(NAME_None, FCollisionQueryParams::GetUnknownStatId());
 					FVector StartLocation = TopDownCameraComponent->GetComponentLocation();
@@ -78,7 +75,6 @@ void APlantPrototypeCharacter::Tick(float DeltaSeconds)
 					World->LineTraceSingleByChannel(HitResult, StartLocation, EndLocation, ECC_Visibility, Params);
 					FQuat SurfaceRotation = HitResult.ImpactNormal.ToOrientationRotator().Quaternion();
 					CursorToWorld->SetWorldLocationAndRotation(HitResult.Location, SurfaceRotation);
-				}
 			}
 		}
 		else if (APlayerController* PC = Cast<APlayerController>(GetController()))
