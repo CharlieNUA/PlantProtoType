@@ -4,20 +4,7 @@
     <projectFile>Intermediate/ProjectFiles/PlantPrototype.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d13d9467-5100-43e9-97a1-895a45586473" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/NPC.uasset" afterDir="false" />
-=======
->>>>>>> parent of c43092b (added blueprints)
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PlantPrototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PlantPrototype/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/BP_NPC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/BlackScreen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/NPC_Interaction.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/TopDownCPP/Maps/TopDownExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TopDownCPP/Maps/TopDownExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/PlantPrototype/PlantPrototypeCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PlantPrototype/PlantPrototypeCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/PlantPrototype/PlantPrototypeCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PlantPrototype/PlantPrototypeCharacter.h" afterDir="false" />
-    </list>
+    <list default="true" id="d13d9467-5100-43e9-97a1-895a45586473" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,8 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647347345016</updated>
-      <workItem from="1647347428223" duration="2163000" />
-      <workItem from="1647363645054" duration="3097000" />
+      <workItem from="1647347428223" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -213,7 +199,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
